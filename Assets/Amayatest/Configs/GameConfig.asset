@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ebadcb1493a4f13afc496f4ca4b34da, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  cardCellPrefab: {fileID: 7656123250471449936, guid: 3e7fb722ef523ac45bc428b145a1ad96, type: 3}
+  startDelay: 1
+  uiPrefab: {fileID: 2372767050180961869, guid: 5ca2d481a90089a4b8dc0cb5b90fa44b, type: 3}
+  stagePrefab: {fileID: 7053484144930756480, guid: 53f34f2e30d434342b256ea8a2a83f9f, type: 3}
+  cardBackgroundColors:
+  - {r: 0.4156863, g: 0.74509805, b: 0.18823531, a: 1}
+  - {r: 0.35686275, g: 0.43137258, b: 0.882353, a: 1}
+  - {r: 0.8431373, g: 0.48235297, b: 0.7294118, a: 1}
+  - {r: 0.9333334, g: 0.76470596, b: 0.6039216, a: 1}

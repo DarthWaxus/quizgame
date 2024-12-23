@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ada79ee6fc44778a95a5c686718e11a, type: 3}
+  m_Name: QuizConfig
+  m_EditorClassIdentifier: 
+  cardCellPrefab: {fileID: 7656123250471449936, guid: 3e7fb722ef523ac45bc428b145a1ad96, type: 3}
+  levels:
+  - {fileID: 11400000, guid: 0267d1a9aafd8784580b9e237fa7685b, type: 2}
+  - {fileID: 11400000, guid: b37e84aca041039479fe84b53673d4a7, type: 2}
+  - {fileID: 11400000, guid: e7bdc786ed5303644aab8da57dfb0fe1, type: 2}
+  cardBackgroundColors:
+  - {r: 0.9333334, g: 0.76470596, b: 0.6039216, a: 1}
+  - {r: 0.35686275, g: 0.43137258, b: 0.882353, a: 1}
+  - {r: 0.4156863, g: 0.74509805, b: 0.18823531, a: 1}
+  - {r: 0.8431373, g: 0.48235297, b: 0.7294118, a: 1}
+  cardBundleConfigs:
+  - {fileID: 11400000, guid: 53dbc8069a07c4f46803d7c4a67af4b7, type: 2}
+  - {fileID: 11400000, guid: c853b3c91478b4649b8da3df711e3593, type: 2}
+  startDelay: 1
